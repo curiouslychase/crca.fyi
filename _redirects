@@ -11,6 +11,7 @@
 /docker/alpine-sh https://curiouslychase.com/posts/exec_user_process_docker/ 301
 /philosophies https://curiouslychase.com/posts/philosophies/ 301
 /about https://curiouslychase.com/about/ 301
+/obsidian-workbench https://github.com/curiouslychase/obsidian-workbench 301
 
 /notion-intake https://docs.google.com/forms/d/e/1FAIpQLSd2J3uWJSaWjMzxyFMQhiC7I4OhjdZBC4IJ5UCSHYqsaWQhCg/viewform?usp=sf_link 301
 
@@ -21,6 +22,6 @@
 
 /loom/* https://www.loom.com/share/:splat 301
 
+
 /* https://curiouslychase.com/:splat 301
 
-/obsidian-workbench https://github.com/curiouslychase/obsidian-workbench 301
