@@ -22,3 +22,5 @@
 /loom/* https://www.loom.com/share/:splat 301
 
 /* https://curiouslychase.com/:splat 301
+
+/obsidian-workbench https://github.com/curiouslychase/obsidian-workbench 301
